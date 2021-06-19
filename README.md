@@ -1,3 +1,2 @@
-# xnybot-strona
- ładna stronka pod bota
-nie zezwalam na uzycie loga zawartego w plikach
+# xnybot-strona v1
+pierwsza wersja strony mojego bota, zezwalam na uzywanie wszystkiego procz loga.
